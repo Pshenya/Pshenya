@@ -1,21 +1,23 @@
-### Hi there 👋
-========================================================================================================================================
+### 🦸‍♂️ Pavel Pshenyshniuk 👋
 
-🌍  I am a Front-End Developer based in Belgrade, Serbia.
-<br/>
+**`Digital Craftsman (Developer/Creator)`**
 
-### Skills
+I'm just a Front-end developer and Integration Engineer who loves tinkering with code and exploring new tech. Big fan of open-source and always up for a chat about the latest trends. Let's connect and geek out together!
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-<br/>
-
-### Socials
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/pavel-pshenyshniuk/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://www.youtube.com/channel/UC9aYUnvrewZ-oqn5GI4JN7w">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
+
+---
+
+### Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,jquery,html,css,tailwind,nodejs,mongo,git,docker)](https://skillicons.dev)
+<br/>
 
 <!--
 **Pshenya/Pshenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
