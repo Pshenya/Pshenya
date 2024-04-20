@@ -14,9 +14,9 @@ I'm just a Front-end developer and Integration Engineer who loves tinkering with
 
 ---
 
-### Languages and Tools
+### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,jquery,html,css,tailwind,nodejs,mongo,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,jquery,html,css,tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,mongo,git,docker)](https://skillicons.dev)
 <br/>
 
 <!--
