@@ -5,13 +5,12 @@
 I'm just a Front-end developer and Integration Engineer who loves tinkering with code and exploring new tech. Big fan of open-source and always up for a chat about the latest trends. Let's connect and geek out together!
 
 <div align="center">
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pavel-pshenyshniuk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://www.youtube.com/channel/UC9aYUnvrewZ-oqn5GI4JN7w" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
+  </a>&nbsp;
 </div>
 
 ---
